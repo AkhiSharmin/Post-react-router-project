@@ -1,3 +1,7 @@
 .active {
-  background-color: red;
+  background-color: rgb(173, 216, 215);
+  text-decoration: underline;
+  padding: 5px;
+  color: black;
+  font-weight: 700;
 }
